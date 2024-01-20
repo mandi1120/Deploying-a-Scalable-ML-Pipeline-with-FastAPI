@@ -6,8 +6,8 @@ name: Python-package # Name of the Action.
 on: 
   push:
     paths-ignore:
-      - 'README.md'
       - 'fastapi/**'
+      - './fastapi/Lib/site-packages/'
       
 jobs:
   build:
