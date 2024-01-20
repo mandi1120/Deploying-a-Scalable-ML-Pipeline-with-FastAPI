@@ -40,5 +40,8 @@ the trained model.
 The model was evaluated using Precision, Recall, and F1 scores.  
 The scores were as follows:  
 - Precision: 0.7440  
-- call: 0.6365  
+- Recall: 0.6365  
 - F1: 0.6861  
+
+
+
