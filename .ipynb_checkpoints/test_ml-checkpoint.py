@@ -15,8 +15,9 @@ def test_train_model():
     # Your code here
     X_train = [[1,1,1,1,1],[1,1,1,1,1]]
     y_train = [[1,1,1,1,1],[1,1,1,1,1]]
+    X_test = [[1,1,1,1,1],[1,1,1,1,1]]
     m = train_model(X_train, y_train)
-    p = m.predict(X_train)
+    p = m.predict(X_test)
     assert p.all() == 1
 
 
