@@ -3,8 +3,12 @@
 
 name: Python-package # Name of the Action.
 
-on: [push] # When this action runs.
-
+on: 
+  push:
+    paths-ignore:
+      - 'README.md'
+      - 'fastapi/*'
+      
 jobs:
   build:
 
