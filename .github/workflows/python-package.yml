@@ -6,8 +6,7 @@ name: Python-package # Name of the Action.
 on: 
   push:
     paths-ignore:
-      - 'fastapi/**'
-      - './fastapi/Lib/site-packages/'
+      - '**/fastapi/**'	# ignore any files in a fastapi directory anywhere in the repository.
       
 jobs:
   build:
