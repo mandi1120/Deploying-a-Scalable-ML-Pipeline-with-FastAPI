@@ -48,9 +48,10 @@ The data in the census file is anonymous. As such,
 there are no ethical considerations for this project.
 
 ## Caveats and Recommendations
-A caveat for this project is that the year of the data collection was unknown. 
-It is recommended to attain data from recent years to re-train and test the model 
-in order to better predict modern salary ranges.
+A caveat for this project is that the year of the data collection  
+was unknown. It is recommended to attain data from recent years  
+to re-train and test the model in order to better predict modern  
+salary ranges.  
 
 
 
