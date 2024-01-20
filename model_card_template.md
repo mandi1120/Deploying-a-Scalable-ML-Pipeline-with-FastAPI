@@ -29,12 +29,12 @@ comprised of the following 15 columns:
 - native-country
 - salary
 
-## Training Data  
-80% of the dataset was used for training the model.  
+## Training Data   
+80% of the dataset was used for training the model.   
 
-## Evaluation Data  
-20% of the dataset was reserved for testing and evaluating  
-the trained model.  
+## Evaluation Data   
+20% of the dataset was reserved for testing and evaluating    
+the trained model.    
 
 ## Metrics  
 The model was evaluated using Precision, Recall, and F1 scores.  
