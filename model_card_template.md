@@ -44,8 +44,8 @@ The scores were as follows:
 - F1: 0.6861  
 
 ## Ethical Considerations
-The data in the census file is anonymous. As such, 
-there are no ethical considerations for this project.
+The data in the census file is anonymous. As such,    
+there are no ethical considerations for this project.   
 
 ## Caveats and Recommendations
 A caveat for this project is that the year of the data collection  
