@@ -1,0 +1,20 @@
+After installing wsl:
+
+- Navigate to folder
+- Shift + right click on folder
+- Click "open linux shell here"
+- Install anaconda for wsl:    
+     - https://www.reddit.com/r/wsl2/comments/120f2uy/why_cant_we_use_conda_installed_in_windows_on_wsl2/
+     - Run: wget https://repo.anaconda.com/archive/Anaconda3-2023.03-Linux-x86_64.sh
+     - After download run: bash Anaconda3-2023.03-Linux-x86_64.sh
+- Close and reopen terminal after install
+- Run: conda env create -f environment.yml
+- Run: conda activate fastapi
+
+
+
+
+
+
+
+
