@@ -54,7 +54,11 @@ accurately reflect the larger population.
 A caveat for this project is that the year of the data collection  
 was unknown. It is recommended to attain data from recent years  
 to re-train and test the model in order to better predict modern  
-salary ranges.  
+salary ranges. As mentioned in the Ethical Considerations section  
+it is recommended that the data be reviewed in depth, and any       
+features found to be biased are removed from the training data for  
+the model to be re-trained.  
+
 
 
 
