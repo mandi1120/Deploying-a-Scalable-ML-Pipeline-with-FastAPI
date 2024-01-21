@@ -38,14 +38,17 @@ the trained model.
 
 ## Metrics  
 The model was evaluated using Precision, Recall, and F1 scores.  
-The scores were as follows:  
+The results were as follows:  
 - Precision: 0.7440  
 - Recall: 0.6365  
 - F1: 0.6861  
 
 ## Ethical Considerations
-The data in the census file is anonymous. As such,    
-there are no ethical considerations for this project.   
+Given that the census.csv file includes only a 32.5K sample of the  
+population, the model's predictions should not be taken as absolute   
+for the entire population. Additional work is needed to identify   
+potential bias in the dataset and to ensure all included features    
+accurately reflect the larger population.  
 
 ## Caveats and Recommendations
 A caveat for this project is that the year of the data collection  
